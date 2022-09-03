@@ -2,3 +2,6 @@ baseURL = 'https://uncensoredindia.vercel.app/'
 languageCode = 'en-us'
 title = 'Uncensored India'
 theme = 'paper'
+[params]
+  name = 'Knowledge should be uncensored.'
+  bio = 'Uncensored India is a collection of everything that was removed from the NCERT books in the recent revisions. I have added texts and downloadable PDFs to every change mentioned below.' 
