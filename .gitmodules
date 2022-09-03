@@ -1,0 +1,10 @@
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "uncensoredindia/themes/paper"]
+	path = uncensoredindia/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "uncensoredindia/public"]
+	path = uncensoredindia/public
+	url = https://github.com/lalit22km/uncensoredindia.git
+	branch = main

@@ -1,0 +1,4 @@
+baseURL = 'https://uncensoredindia.vercel.app/'
+languageCode = 'en-us'
+title = 'Uncensored India'
+theme = 'paper'
